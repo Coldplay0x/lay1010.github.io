@@ -4,18 +4,18 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
-  weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
-  music: http://site.douban.com/linanya
-  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  name: Ling Du
+  email: 860635426@qq.com
+  link: http://coldplay0x.ctop
+  weibo: http://weibo.com/
+  github: http://github.com/Coldplay0x
+  music: http://site.douban.com/
+  linkedin: https://www.linkedin.com
 
 # 站点信息
-title: 林安亚的博客
+title: 零度的博客
 description: My personal blog
-url: http://painterlin.com
+url: http://coldplay0x.top
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
